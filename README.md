@@ -29,10 +29,3 @@ Brincadeiras a parte eu sou o Samuel, mais conhecido como Simpa. Estou iniciando
 ![Python](https://img.shields.io/badge/Python-AAA?style=for-the-badge&logo=python)
 
 ![C#](https://img.shields.io/badge/C%23-AAA?style=for-the-badge&logo=c-sharp&logoColor=823085)
-
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sympathetic-s&theme=transparent&bg_color=AAA&border_color=DCDCDC&show_icons=true&icon_color=000000&title_color=000000&text_color=FFF&hide_title=true&hide=stars)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sympathetic-s&theme=graywhite&background=AAA&border=AAA&dates=000)](https://git.io/streak-stats)
